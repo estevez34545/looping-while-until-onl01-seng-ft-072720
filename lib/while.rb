@@ -6,6 +6,7 @@ def using_while
  end
 end
 counter = 0 
-until 
+until counter == 10 
+
 
 
